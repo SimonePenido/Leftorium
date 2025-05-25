@@ -162,8 +162,7 @@ h6,
 }
 
 .banner-content p {
-  font-size: 1.5rem;
-  line-height: 1.6;
+  font-size: 1.4rem;
   color: var(--bs-body-color);
 }
 
@@ -320,7 +319,7 @@ a {
 .banner-image img {
   border: var(--bs-secondary) solid 3px;
   border-radius: 15px;
-  max-width: 90%;
+  max-width: 100%;
 }
 
 .logo img {
